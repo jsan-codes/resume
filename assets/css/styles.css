@@ -337,7 +337,7 @@ img{
 }
 
 .home__img{
-  background-image: url("../img/Lion.jpg");
+  background-image: url("../img/me.jpg");
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -347,7 +347,7 @@ img{
 }
 
 .home__img:hover {
-  background-image: url("../img/Roar.jpg");
+  background-image: url("../img/army_seal.png");
   width: 130px;
   height: 130px;
   border-radius: 50%;
