@@ -354,8 +354,8 @@ img{
   justify-self: center;
   margin-bottom: var(--mb-1);
   background-size: cover;
-  border-color: Red;
-  box-shadow: 0 5px 15px Red;
+  border-color: rgb(189, 173, 173);
+  box-shadow: 0 5px 15px rgb(29, 28, 28);
   cursor: not-allowed;
 }
 
