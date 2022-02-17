@@ -483,7 +483,8 @@ img{
 }
 /*========== ABOUT ==========*/
 .about__description{
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /*========== EDUCATION AND EXPERIENCE ==========*/
