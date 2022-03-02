@@ -52,7 +52,9 @@
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;"  /> 
 <img align="left" alt="heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;"  /> 
 <img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;"  />
-<br><br>
+
+<br />
+<br>
 <details>
 <summary>:zap: GitHub Stats</summary>
 
