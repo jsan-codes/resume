@@ -11,9 +11,9 @@
 ## I'm a Husband, Father, Developer, and Cyber Security Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate  and learn with others Azure Cloud, IaC, Cyber Security, and backend automation
-- 🥅 2022 Goals: Study and recieve CISSP Certification
-- ⚡ Fun fact: I like to code as hobby and in all my free time<br>
+- 👯 I’m looking to collaborate  and learn with others these areas of technology; Azure Cloud, IaC, Cyber Security, and backend automation
+- 🥅 2022 Goals: Study and earn the CISSP Certification
+- ⚡ Fun fact: I like to code as hobby and in all my free time 🗺<br>
 
 ### Languages and Tools I plan on learning:<br>
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
@@ -54,9 +54,9 @@
 <img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;"  />
 <br><br>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JSAN-Codes GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jsan-codes&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="JSAN-Codes GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jsan-codes&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
