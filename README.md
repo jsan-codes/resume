@@ -23,7 +23,7 @@
 
 <br>
 
-### Languages and Tools:<br>
+### Languages and Tools I use:<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="gCloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
